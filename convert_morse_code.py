@@ -1,7 +1,7 @@
 #Author: Jason D'Souza
 #Date: December 24, 2021
-#File Name: dsouza_morse_code
-#Description: Program converts text given by the user to morsecode
+#File Name: convert_morse_code
+#Description: Program converts text given by the user to Morse code
 
 morsecode = { 'A':'.-', 'B':'-...', #'morsecode' is dictionary, a collection of values that translates certain values to another assigned value
               'C':'-.-.', 'D':'-..', 'E':'.', 
